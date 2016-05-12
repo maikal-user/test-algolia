@@ -17,7 +17,7 @@
 
 
 [![Version][version-svg]][package-url] 
-
+[![GitHub issues](https://img.shields.io/github/issues/maikal-user/test-algolia.svg?style=flat-square)](https://github.com/maikal-user/test-algolia/issues)
 
 
 [version-svg]: https://img.shields.io/npm/v/algoliasearch.svg?style=flat-square
