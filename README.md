@@ -19,6 +19,8 @@
 [![Version][version-svg]][package-url] 
 [![GitHub issues](https://img.shields.io/github/issues/maikal-user/test-algolia.svg?style=flat-square)](https://github.com/maikal-user/test-algolia/issues)
 
+![Travis CI](http://img.shields.io/travis-ci/rails/rails.png)
+
 
 [version-svg]: https://img.shields.io/npm/v/algoliasearch.svg?style=flat-square
 [package-url]: https://npmjs.org/package/algoliasearch
