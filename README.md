@@ -16,9 +16,14 @@
 
 
 
-[![Version][version-svg]][package-url] [![Build Status][travis-svg]][travis-url] [![License][license-image]][license-url] [![Downloads][downloads-image]][downloads-url]
+[![Version][version-svg]][package-url] 
+[![Build Status][travis-svg]][travis-url] 
+[![License][license-image]][license-url] 
+[![Downloads][downloads-image]][downloads-url]
 
 
+[version-svg]: https://img.shields.io/npm/v/algoliasearch.svg?style=flat-square
+[package-url]: https://npmjs.org/package/algoliasearch
 
 [travis-svg]: https://img.shields.io/travis/algolia/algoliasearch-client-js/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/algolia/algoliasearch-client-js
@@ -28,5 +33,3 @@
 [downloads-url]: http://npm-stat.com/charts.html?package=gulp-task-builder
 [browser-test-matrix]: https://saucelabs.com/browser-matrix/algoliasearch-js.svg
 [browser-test-url]: https://saucelabs.com/u/algoliasearch-js
-[version-svg]: https://img.shields.io/npm/v/algoliasearch.svg?style=flat-square
-[package-url]: https://npmjs.org/package/algoliasearch
