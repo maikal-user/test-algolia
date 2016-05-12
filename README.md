@@ -25,7 +25,7 @@
 [license-image]: https://img.shields.io/badge/license-MIT-green.svg?style=flat-square
 [license-url]: LICENSE.txt
 [downloads-image]: https://img.shields.io/npm/dm/algoliasearch.svg?style=flat-square
-[downloads-url]: http://npm-stat.com/charts.html?package=algoliasearch
+[downloads-url]: http://npm-stat.com/charts.html?package=gulp-task-builder
 [browser-test-matrix]: https://saucelabs.com/browser-matrix/algoliasearch-js.svg
 [browser-test-url]: https://saucelabs.com/u/algoliasearch-js
 [version-svg]: https://img.shields.io/npm/v/algoliasearch.svg?style=flat-square
